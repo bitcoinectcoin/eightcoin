@@ -110,7 +110,7 @@ namespace parameters {
 
 
 const char     CRYPTONOTE_NAME[]                             = "nicodemoscoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff888         3f8024f5142ee494ffbbd08807121012127729c8b3a35534ecfd6329d4149fb4eee13afff55cf7d4cc315a027c6dc6e         ";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121012127729c8b3a35534ecfd6329d4149fb4eee13afff55cf7d4cc315a027c6dc6e";
 
 
 const uint32_t GENESIS_NONCE                                 = 70;
